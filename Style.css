@@ -91,7 +91,7 @@ header .fa-bars {
 
 .home {
     min-height: 50vh;
-    background: url(images/aber.jpg) no-repeat;
+    background: url(aber.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
